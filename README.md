@@ -1,5 +1,7 @@
 # Content Repository Builder for Strider CD
 
+
+
 [![Build Status](https://travis-ci.org/deconst/strider-deconst-content.svg?branch=master)](https://travis-ci.org/deconst/strider-deconst-content)
 
 Job plugin for [Strider CD](https://github.com/Strider-CD/strider) that:
